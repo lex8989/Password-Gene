@@ -37,6 +37,6 @@ char GenRand()
       goto N; 
    }
    cout<<D; 
-   cout<<endl<<endl<<"  ;
+   cout<<endl<<endl<<"                 THANK YOU";
    return 0; 
 }
